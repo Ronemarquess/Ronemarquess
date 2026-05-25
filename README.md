@@ -1,6 +1,6 @@
 # Olá! Sou o Rone Marques Santos de Jesus 👋
 
-### Desenvolvedor Full-Stack | Especialista em Automação & Chatbots | Tech Entrepreneur | Estudante de Sistemas de Informação
+### Desenvolvedor Full-Stack | Especialista em Automação & Sites | Tech Entrepreneur | Estudante de Sistemas de Informação
 
 Sou desenvolvedor, empreendedor de tecnologia e estudante de Sistemas de Informação na Universidade Estácio. Atuo no mercado criando sites, aplicativos móveis e softwares sob medida para diversos setores, focado em transformar processos manuais em fluxos digitais eficientes e lucrativos.
 

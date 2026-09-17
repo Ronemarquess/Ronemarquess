@@ -1,4 +1,4 @@
-# Olá! Sou o Rone Marques Santos de Jesus 👋
+# Olá, Sou o Rone Marques Santos de Jesus 👋
 
 ### Desenvolvedor Full-Stack | Especialista em IA Conversacional & Automações | Tech Entrepreneur | Estudante de Sistemas de Informação
 

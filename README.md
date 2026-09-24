@@ -4,7 +4,7 @@
 
 Sou desenvolvedor, empreendedor de tecnologia e estudante de Sistemas de Informação na Universidade Estácio. Atuo no mercado criando sites, aplicativos móveis e softwares sob medida para diversos setores, focado em transformar processos manuais em fluxos digitais eficientes, escaláveis e integrados com inteligência artificial.
 
-Meu grande objetivo e foco diário é consolidar a **Tec Inove**, entregando soluções robustas de software, infraestrutura em nuvem de ponta e automações inteligentes que geram valor real para empresas e clientes finais.
+Meu grande objetivo e foco diário é consolidar-se com, tempo entregando soluções robustas de software, infraestrutura em nuvem de ponta e automações inteligentes que geram valor real para empresas e clientes finais.
 
 ---
 
@@ -14,7 +14,7 @@ Meu grande objetivo e foco diário é consolidar a **Tec Inove**, entregando sol
 * **GuiamundoPRO:** Desenvolvendo uma plataforma completa voltada para o setor de turismo (Frontend com Vite/React e Backend integrado ao MongoDB Atlas, hospedado via Railway).
 * **Agentes de IA & Mensageria:** Desenvolvendo fluxos de IA conversacional e assistentes inteligentes altamente contextualizados com Engenharia de Prompts avançada, integrando `whatsapp-web.js`, n8n, Node.js e gateways de pagamento (Mercado Pago).
 * **Infraestrutura e Redes:** Projetando e otimizando arquiteturas de rede para empresas, com foco em sub-redes, roteamento de IPs e isolamento de ambientes corporativos.
-
+***Entre outros projetos que estão em pastas publicas e privadas aqui no meu git.
 ---
 
 ### 🛠️ Minha Pilha de Tecnologias (Utilizada em Projetos Reais)

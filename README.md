@@ -39,12 +39,26 @@ Meu grande objetivo e foco diário é consolidar a **Tec Inove**, entregando sol
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-### 💼 Experiência & Projetos em Destaque
+### 🛠️ Arquitetura de Stacks & Tecnologias
 
-#### **Fundador & Desenvolvedor Full-Stack** | Tec Inove *(2025 - Presente)*
-* Criação, modelagem e arquitetura de softwares comerciais, sites institucionais modernos e aplicativos sob demanda.
-* Implantação de ecossistemas automatizados baseados em microsserviços integrando APIs, webhooks de pagamento seguro e inteligência artificial aplicadas ao comércio local.
+#### 🔹 Back-End & Processamento Distribuído
+* **FastAPI & Python:** Utilizados para a construção de APIs assíncronas de alta performance, microsserviços RESTful, manipulação de dados e pipelines de automação com execução concorrente.
+* **Java:** Utilizado para consolidação de arquitetura orientada a objetos, padrões de projeto (Design Patterns) e aplicações focadas em alto desempenho de regras de negócio.
+* **TypeScript & Node.js:** Utilizados na criação de serviços de mensageria, bots de mensageria em tempo real (`whatsapp-web.js`), rotas e integrações rápidas com webhooks.
 
-#### **Plataforma GuiamundoPRO** | *Projeto Autoral*
-* Aplicação full-stack robusta e performática de alta escala voltada para o setor de turismo.
-* Interface responsiva construída em React + Vite, estilização moderna com Tailwind CSS e persistência de dados em nuvem utilizando MongoDB Atlas com pipeline de deploy contínuo via **Railway**.
+#### 🔹 Front-End & Interfaces Reativas
+* **React + Vite / Next.js:** Construção de interfaces SPA/SSR otimizadas e reativas para plataformas web comerciais e SaaS, focando em renderização ágil e consumo eficiente de APIs REST.
+* **Tailwind CSS:** Estilização utilitária focada em alta responsividade e consistência visual rápida.
+
+#### 🔹 Persistência & Bancos de Dados
+* **PostgreSQL & MySQL:** Bancos relacionais utilizados para modelagem de dados complexa, garantia de ACID, transações de pagamentos e consultas indexadas.
+* **MongoDB (Atlas):** Banco de dados NoSQL utilizado para armazenamento flexível de logs, sessões e históricos de conversação de agentes de IA.
+* **Redis:** Camada de cache em memória e armazenamento de sessões para otimização de tempo de resposta e redução de carga em bancos principais.
+
+#### 🔹 DevOps, Nuvem & Automação de Workflows
+* **Docker & Docker Swarm:** Conteinerização de ecossistemas completos para isolamento de ambiente, garantindo *parity* entre desenvolvimento e produção.
+* **n8n & Webhooks:** Orquestração de fluxos assíncronos e automação de processos B2B (integrando gateways de pagamento como Mercado Pago e sistemas de atendimento).
+* **GitHub Actions:** Configuração de pipelines de CI/CD para deploy e validações automatizadas de código.
+* **Cloudflare & Railway:** Gestão de DNS, borda de rede, proteção contra ataques e deploy contínuo de aplicações em nuvem.
+
+---

@@ -1,8 +1,7 @@
 # Olá, Sou o Rone Marques 👋
 
-### Desenvolvedor | Especialista em IA Conversacional & Automações | Tech Entrepreneur | Estudante de Sistemas de Informação
 
-Sou desenvolvedor, empreendedor de tecnologia e estudante de Sistemas de Informação na Universidade Estácio. Atuo no mercado criando sites, aplicativos móveis e softwares sob medida para diversos setores, focado em transformar processos manuais em fluxos digitais eficientes, escaláveis e integrados com inteligência artificial.
+Sou desenvolvedor, empreendedor de tecnologia e Graduado em Sistemas de Informação na Universidade Estácio. Atuo no mercado criando sites, aplicativos móveis e softwares sob medida para diversos setores, focado em transformar processos manuais em fluxos digitais eficientes, escaláveis e integrados com inteligência artificial.
 
 Meu grande objetivo e foco diário é consolidar-se com, tempo entregando soluções robustas de software, infraestrutura em nuvem de ponta e automações inteligentes que geram valor real para empresas e clientes finais.
 
